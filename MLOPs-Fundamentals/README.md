@@ -59,8 +59,35 @@ It combines Machine Learning, DevOps, and Data Engineering to automate the entir
 
 
 -----------------------------------------------------
+# Diff-Models:
 
-[click here]().
+1.`Water-Fall Model.`
+
+2.`Agile Model.`
+
+-----------------------------------------------------
+# 1. Water-Fall model: [link](https://www.scaler.com/topics/images/several-consecutive-phases-of-the-classical-waterfall-model.webp)
+`The Waterfall model is a linear and sequential approach to project development.
+Each phase must be completed fully before moving to the next — there’s little flexibility for changes once a phase is done.`
+
+
+# Agile Model: [link](https://media.geeksforgeeks.org/wp-content/uploads/20230209142829/Capture-660.PNG)
+`The Agile model is an iterative and flexible approach.
+Instead of finishing everything at once, work happens in small cycles (called sprints) — with continuous feedback, testing, and improvements.`
+
+
+
+# See Here Diff B/W 2.
+
+| Feature         | **Waterfall Model** | **Agile Model**              |
+| --------------- | ------------------- | ---------------------------- |
+| Workflow        | Linear              | Iterative                    |
+| Flexibility     | Rigid               | Flexible                     |
+| Feedback        | After completion    | Continuous                   |
+| Speed           | Slow                | Fast (sprints)               |
+| Change Handling | Difficult           | Easy                         |
+| Best for        | Static ML models    | Dynamic, evolving ML systems |
+
 
 -----------------------------------------------------
 
