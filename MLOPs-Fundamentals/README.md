@@ -43,7 +43,22 @@ It combines Machine Learning, DevOps, and Data Engineering to automate the entir
 | 5️⃣ **Deployment**           | Release the application to users or production.                             |
 | 6️⃣ **Maintenance**          | Continuously improve, fix, and update the system after release.             |
 
+# SDLC 6-Steps as Following:
 
+`1.Planning of the project`
+
+`2.Designing the project`
+
+`3.Building of the project`
+
+`4.Testing of the project`
+
+`5.Deploying the project`
+
+`6. Maintain and manage the project`
+
+
+-----------------------------------------------------
 
 [click here]().
 
