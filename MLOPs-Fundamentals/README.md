@@ -7,8 +7,11 @@ For more [click here](https://www.youtube.com/watch?v=jpU8F0M5axo&list=PLmQAMKHK
 
 pre-requirements are as following:
 1.`Basic of ML & DL`
+
 2.`Basic of the Python`
+
 3.`Devops`
+
 4.`Basic front-end Web-Development`
 
 
