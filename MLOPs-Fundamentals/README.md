@@ -29,7 +29,9 @@ It combines Machine Learning, DevOps, and Data Engineering to automate the entir
 `DevOps is a combination of software development (Dev) and IT operations (Ops) practices that aims to build, test, and release software faster, more reliably, and efficiently.` 
 
 -----------------------------------------------------
-@nsgowebjavaprog
+# What is SDLC:
+``
+
 
 
 
