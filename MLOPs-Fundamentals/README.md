@@ -359,24 +359,3 @@ To maintain model accuracy, reliability, and trust through continuous visibility
 | **Monitoring**  | Tracking drift & performance | Prometheus, Grafana, Evidently AI    |
 
 -----------------------------------------------
-
-#
-
-[click here]().
-
------------------------------------------------------
-
-[click here]().
-
-
-`````````````
-COPY
-`````````````
-
-
-
-------------------------------
-
-
-
---------------------------------
