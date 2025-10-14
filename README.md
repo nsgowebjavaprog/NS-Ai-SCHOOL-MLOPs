@@ -1,0 +1,2 @@
+# NS-Ai-SCHOOL-MLOPs
+NS Ai SCHOOL || MLOPs
