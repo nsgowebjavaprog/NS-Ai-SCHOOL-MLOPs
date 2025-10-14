@@ -115,6 +115,7 @@ MLOps automates the entire ML pipeline — from data collection to deployment an
 
 🧠 Example: Automatically retraining a model when new data arrives.`
 
+-----------------------------------------------------
 
 * `2️⃣ Faster Model Deployment
 
@@ -122,6 +123,7 @@ MLOps integrates CI/CD (Continuous Integration / Continuous Deployment) for ML m
 
 🚀 Result: Models go from experimentation to production much faster.`
 
+-----------------------------------------------------
 
 * `3️⃣ Reproducibility
 
@@ -129,6 +131,7 @@ Every model version, dataset, and experiment is tracked — so you can recreate 
 
 📊 Tools: MLflow, DVC, or Kubeflow help store experiment histories.`
 
+-----------------------------------------------------
 
 * `4️⃣ Scalability
 
@@ -137,6 +140,7 @@ It supports scaling from a laptop to cloud or cluster-based systems.
 
 ☁️ Tools: Kubernetes, Docker, AWS Sagemaker.`
 
+-----------------------------------------------------
 
 * `5️⃣ Model Monitoring & Maintenance
 
@@ -144,6 +148,7 @@ After deployment, MLOps helps monitor model performance, detect drift, and trigg
 
 📉 Benefit: Ensures your model remains accurate over time.`
 
+-----------------------------------------------------
 
 * `9️⃣ Improved Reliability & Quality
 
@@ -151,6 +156,7 @@ Automated testing, validation, and deployment make ML models more stable and pro
 
 ✅ Result: Fewer crashes, higher trust in results.`
 
+-----------------------------------------------------
 
 * `🧩 In short:
 
