@@ -25,15 +25,25 @@ It focuses on building algorithms and models that can recognize patterns, make p
 `MLOps is a set of practices and tools used to deploy, monitor, and manage Machine Learning models in production efficiently and reliably.
 It combines Machine Learning, DevOps, and Data Engineering to automate the entire ML lifecycle — from data collection to model deployment and monitoring.`
 
+# What is DevOps:
+`DevOps is a combination of software development (Dev) and IT operations (Ops) practices that aims to build, test, and release software faster, more reliably, and efficiently.` 
+
+-----------------------------------------------------
+@nsgowebjavaprog
+
+
 
 [click here]().
 
+-----------------------------------------------------
 
 [click here]().
 
+-----------------------------------------------------
 
 [click here]().
 
+-----------------------------------------------------
 
 [click here]().
 
