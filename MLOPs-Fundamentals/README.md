@@ -90,8 +90,18 @@ Instead of finishing everything at once, work happens in small cycles (called sp
 
 
 -----------------------------------------------------
+Following Will Show how it's working:
+# Development:
 
-[click here]().
+1.`Development`
+2.`Testing`
+3.`QA [Quality analysis]`
+
+# Operations:
+
+1.`Devivery`
+2.`Deployment`
+3.`Maintainence and Monitoring`
 
 -----------------------------------------------------
 
