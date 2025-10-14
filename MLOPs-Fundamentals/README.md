@@ -30,8 +30,18 @@ It combines Machine Learning, DevOps, and Data Engineering to automate the entir
 
 -----------------------------------------------------
 # What is SDLC:
-``
+`SDLC (Software Development Life Cycle) is a structured process that defines how software is developed, from idea to deployment and maintenance.`
 
+---------------------------------------------------
+
+| Phase                        | Description                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------- |
+| 1️⃣ **Requirement Analysis** | Understand what the user or business needs.                                 |
+| 2️⃣ **Design**               | Plan how the software will look and function (architecture, UI, data flow). |
+| 3️⃣ **Development**          | Write and implement the actual code.                                        |
+| 4️⃣ **Testing**              | Verify that the software works correctly and fix bugs.                      |
+| 5️⃣ **Deployment**           | Release the application to users or production.                             |
+| 6️⃣ **Maintenance**          | Continuously improve, fix, and update the system after release.             |
 
 
 
