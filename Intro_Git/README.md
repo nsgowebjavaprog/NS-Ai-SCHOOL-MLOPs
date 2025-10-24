@@ -170,3 +170,5 @@ git commit -m "Added new feature"   # Commit
 | `git config`   | Configure Git             | `git config --global user.name "John"` |
 
 ---
+
+
