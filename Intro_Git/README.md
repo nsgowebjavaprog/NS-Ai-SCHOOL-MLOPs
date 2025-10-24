@@ -172,3 +172,7 @@ git commit -m "Added new feature"   # Commit
 ---
 
 
+git init
+
+what is .git file
+
